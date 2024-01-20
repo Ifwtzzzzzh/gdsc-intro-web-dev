@@ -1,4 +1,4 @@
-# Introduction to Web Developer
+# Introduction to Web Developer ⚖
 
 A Web Developer is a kind of programmer who specializes in the development of applications relating to the World Wide Web or distributed network applications, which typically run protocols like HTTP from a web server to a client browser using associated programming languages like HTML/CSS, C#, Ruby, Python, Java, PHP, JavaScript, etc.
 
